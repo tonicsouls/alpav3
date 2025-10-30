@@ -1,0 +1,5 @@
+{
+  "name": "alpa v3",
+  "description": "An application prototype for a secure banking workflow. It uses AI to analyze uploaded documents, identify customer information, validate against a mock CRM, and then rename and categorize the file accordingly.",
+  "requestFramePermissions": []
+}
